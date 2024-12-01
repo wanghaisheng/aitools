@@ -11,7 +11,7 @@
 3. ComfyUI 使用：下载模型，一键运行，达到人人都能使用
 
 ## 支持平台
-- [x] 腾讯 Cloud Studio 【免费T4 16G显存】【[视频介绍](https://www.bilibili.com/video/BV1BJmSYFE2a/)】
+- [x] 腾讯 Cloud Studio 【免费T4 16G显存】【[视频介绍](https://www.bilibili.com/video/BV1BJmSYFE2a/)】   https://cloud.tencent.com/login?s_url=https://ide.cloud.tencent.com/
 - [] Google Colab
 - [] Kaggle
 - [] 启智免费算力平台 【免费A100 40G显存】【[视频介绍](https://www.bilibili.com/video/BV1an4y1X7h5/)】
